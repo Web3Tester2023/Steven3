@@ -1,0 +1,115 @@
+.btn {
+  position: relative;
+  z-index: 2;
+  cursor: pointer;
+  display: inline-block;
+  /* display: inline-flex;
+  justify-content: center;
+  align-items: center; */
+  // background: #F8F1E0;
+  // border: 1px solid #383737;
+  // border-radius: 25px;
+  padding: 21px 30px 20px;
+  transition: all .3s ease;
+  background-color: transparent;
+
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 17px;
+  text-transform: uppercase;
+
+  color: transparent;
+  text-align: center;
+
+  @media (max-width:992px) {
+    padding: 0 15px;
+    height: 55px;
+    font-size: 16px;
+    line-height: 15px;
+  }
+
+  span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #F8F1E0;
+    border: 1px solid #383737;
+    border-radius: 25px;
+    color: #1F1F1F;
+    transition: all .3s ease;
+    text-align: center;
+
+    @media (max-width:992px) {
+      border-radius: 22px;
+    }
+  }
+
+  &::before,
+  &::after {
+    content: '';
+    display: block;
+    position: absolute;
+    z-index: -2;
+    width: calc(100%);
+    height: calc(100%);
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background: #F8F1E0;
+    border: 1px solid #383737;
+    border-radius: 25px;
+    transition: all .4s ease;
+
+    @media (max-width:992px) {
+      border-radius: 22px;
+    }
+  }
+
+  &:hover {
+    span {
+      background-color: #F9D965;
+    }
+
+    &::before {
+      transform: translate(0, -7px);
+    }
+
+    &::after {
+      transform: translate(0, 7px);
+    }
+  }
+
+  &.disable {
+    cursor: default;
+    background-color: #F8F1E0;
+
+    &::before {
+      transform: translate(0);
+    }
+
+    &::after {
+      transform: translate(0);
+    }
+  }
+
+  &.commingSoon {
+    cursor: default;
+    background: transparent !important;
+
+    span {
+      background-color: transparent !important;
+    }
+
+    &::before,
+    &::after {
+      display: none;
+    }
+  }
+}

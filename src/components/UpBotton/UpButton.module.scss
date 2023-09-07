@@ -1,0 +1,44 @@
+.btn {
+  flex: 0 0 auto;
+  cursor: pointer;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  background: #F8F1E0;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  transition: all .3s ease;
+
+  svg {
+    path {
+      transition: all .3s ease;
+    }
+  }
+
+
+  @media (max-width:767px) {
+    width: 30px;
+    height: 30px;
+
+    svg {
+      width: 18px;
+      height: 18px;
+    }
+  }
+
+  &:hover {
+    background-color: transparent;
+
+    svg {
+      path {
+        fill: #F8F1E0;
+      }
+    }
+  }
+
+  &.disable {
+    cursor: default;
+    background-color: #F8F1E0;
+  }
+}
