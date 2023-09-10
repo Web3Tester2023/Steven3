@@ -179,9 +179,9 @@ const HowToBuy = () => {
     </div>
     <div className="col-md-6">
       <p className="pex">
-        The $ANA token sale is your chance to be part of a movement, a new
+        The $STEVE token sale is your chance to be part of a movement, a new
         blockchain project that promises to shake up the industry. By
-        purchasing $ANA tokens, you’ll be taking a first step away from a
+        purchasing $STEVE tokens, you’ll be taking a first step away from a
         corrupt system to it’s core. Become part of something that’s truly
         decentralised.
       </p>
@@ -198,7 +198,7 @@ const HowToBuy = () => {
       }}
     
     >
-      BUY $ANA NOW &nbsp;
+      BUY $STEVE NOW &nbsp;
       <i className="bi bi-arrow-up-right" />
     </button>
   </div>
@@ -211,7 +211,7 @@ const HowToBuy = () => {
         <div className="text">
           <h3>ETH / USDT / BNB</h3>
           <p>
-            To exchange your ETH, USDT or BNB for $ANA tokens, simply select
+            To exchange your ETH, USDT or BNB for $STEVE tokens, simply select
             the corresponding button in the buy widget and enter the amount you
             wish to swap. Make sure to pay attention to the gas cost when
             purchasing.{" "}
@@ -244,7 +244,7 @@ const HowToBuy = () => {
     }}
       style={{ fontWeight: 700 }}
       >
-      BUY $ANA NOW &nbsp;
+      BUY $STEVE NOW &nbsp;
       <i className="bi bi-arrow-up-right" />
     </button>
   </div>
@@ -269,15 +269,15 @@ const TokenBreakdown = () => {
     <div className="col-md-6">
       <div className="ztzf">
         <h3>
-          $ANA is a governance token on the Ethereum blockchain <br />
+          $STEVE is a governance token on the Ethereum blockchain <br />
           (ERC20)
         </h3>
         <p>
-          <span>80%</span> of the <span>69,420,000,000</span> Anarchy tokens
+          <span>80%</span> of the <span>69,420,000,000</span> STEVEN tokens
           are issued for sale.{" "}
         </p>
         <p>
-          <span>20%</span> of the <span>69,420,000,000</span> Anarchy tokens are supplied for liquidity.{" "}
+          <span>20%</span> of the <span>69,420,000,000</span> STEVEN tokens are supplied for liquidity.{" "}
         </p>
       </div>
       <div className="ztzff text-start">
@@ -297,7 +297,7 @@ const TokenBreakdown = () => {
             elem.scrollIntoView({behavior: "smooth"})
       }}
       >
-          BUY $ANA NOW &nbsp;
+          BUY $STEVE NOW &nbsp;
           <i className="bi bi-arrow-up-right" />
         </button>
       
@@ -331,7 +331,7 @@ const HowToClaim = () => {
   </div>
   <div className="col-md-6">
     <p className="htcp">
-    Anarchy investors will be able to claim their $ANA tokens after the completion of the ICO. Please note that if you add the $ANA token to your web3 wallet, purchased tokens won't display until you have claimed $ANA after the ICO is complete.
+    Steven investors will be able to claim their $STEVE tokens after the completion of the ICO. Please note that if you add the $STEVE token to your web3 wallet, purchased tokens won't display until you have claimed $STEVE after the ICO is complete.
     </p>
   </div>
   <div className="col-md-12 d-none d-md-block mt-5" />
@@ -352,7 +352,7 @@ const HowToClaim = () => {
       <img src="./assets/two.svg" />
       </div>
       <div className='col-9 col-md-10 vertical-center'>
-      You can manually add the $ANA token to your wallet with the contract address:
+      You can manually add the $STEVE token to your wallet with the contract address:
 
       </div>
     </div>
@@ -406,7 +406,7 @@ const Dao = () => {
     <div className="row">
       <div className="col-md-6">
         <h2 className='tbd'>
-          Anarchy
+          Steven
           <br />
           DAO
         </h2>
@@ -414,7 +414,7 @@ const Dao = () => {
       </div>
       <div className="col-md-6">
         <p>
-          The <span>Anarchy DAO</span> is primarily Philanthropy and
+          The <span>Steven DAO</span> is primarily Philanthropy and
           Investment based.
         </p>
         <p>
@@ -581,7 +581,7 @@ const PRESALE_ABI = [
 						"type": "uint256"
 					}
 				],
-				"internalType": "struct AnarchyPresale.AddPhase[]",
+				"internalType": "struct StevenPresale.AddPhase[]",
 				"name": "_addPhase",
 				"type": "tuple[]"
 			}
@@ -1157,7 +1157,7 @@ const PRESALE_ABI = [
 						"type": "uint256"
 					}
 				],
-				"internalType": "struct AnarchyPresale.Phase[]",
+				"internalType": "struct StevenPresale.Phase[]",
 				"name": "",
 				"type": "tuple[]"
 			}
@@ -2284,7 +2284,7 @@ const PRESALE_ABI = [
                         {!walletConnected &&  !isRedirectMetamask   ?  <></>: (
                         walletConnected ? <></>  : <>
                          <><a
-                       href="https://metamask.app.link/dapp/anarchycoin.io"
+                       href="https://metamask.app.link/dapp/Stevencoin.io"
                         className={"btn btn-lg btn-block buybutton"}
                       >Metamask</a>
 
