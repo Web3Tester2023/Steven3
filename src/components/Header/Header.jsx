@@ -18,10 +18,10 @@ export function Header() {
       <img width="50px" src="./assets/logo.png" />
     </a>
     <div>
-      <a className="navsmlinkk d-md-none" href="https://twitter.com/anarchycoineth?s=21" target="_blank">
+      <a className="navsmlinkk d-md-none" href="#" target="_blank">
         Twitter
       </a>
-      <a className="navsmlinkk d-md-none" href="https://t.me/anarchyarmy" target="_blank">
+      <a className="navsmlinkk d-md-none" href="#" target="_blank">
         Telegram
       </a>
       <button
@@ -64,12 +64,12 @@ export function Header() {
         style={{ marginRight: 15 }}
       >
         <li className="nav-item">
-          <a className="nav-link navsmlink" href="https://twitter.com/anarchycoineth?s=21" target="_blank">
+          <a className="nav-link navsmlink" href="#" target="_blank">
             Twitter
           </a>
         </li>
         <li className="nav-item">
-          <a className="nav-link navsmlink" href="https://t.me/anarchyarmy" target="_blank">
+          <a className="nav-link navsmlink" href="#" target="_blank">
             Telegram
           </a>
         </li>
