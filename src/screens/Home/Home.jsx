@@ -2028,7 +2028,7 @@ const PRESALE_ABI = [
                             1,
                             tokenDecimals
                           )}{" "}
-                      $ANA tokens
+                      $STEVE tokens
                     </h4>
 
                     <div className="ethusdtbnb">
@@ -2095,7 +2095,7 @@ const PRESALE_ABI = [
                           </div>
                           <div className="col-md-6">
                             <p>
-                              {/* Amount you : */} Receive <span>$ANA</span>
+                              {/* Amount you : */} Receive <span>$STEVE</span>
                             </p>
 
                             <div className="form-group">
@@ -2142,7 +2142,7 @@ const PRESALE_ABI = [
                           <div className="col-md-6">
                             <p>
                               {/* Amount you receive: */}Receive{" "}
-                              <span>$ANA</span>
+                              <span>$STEVE</span>
                             </p>
 
                             <div className="form-group">
@@ -2189,7 +2189,7 @@ const PRESALE_ABI = [
                           <div className="col-md-6">
                             <p>
                               {/* Amount you receive: */}Receive{" "}
-                              <span>$ANA</span>
+                              <span>$STEVE</span>
                             </p>
 
                             <div className="form-group">
@@ -2226,7 +2226,7 @@ const PRESALE_ABI = [
                           className="btn btn-light btn-lg buybutton "
                           onClick={() => buyWithEthFn()}
                           style={{ fontWeight: 700 }}>
-                          BUY $ANA
+                          BUY $STEVE
                         </button>
                         )}
 
@@ -2248,7 +2248,7 @@ const PRESALE_ABI = [
                             onClick={() => buyWithUsdtFn?.()}
                             style={{ fontWeight: 700 }}
                           >
-                            BUY $ANA
+                            BUY $STEVE
                           </button>
                           )}
 
@@ -2262,10 +2262,10 @@ const PRESALE_ABI = [
    style={{ fontWeight: 700 }}
    disabled={isLessThanMinAmount || (!!estimatedBnbToAna && BigNumber.from(estimatedBnbToAna).eq(BigNumber.from("0")))}
  >
-   BUY $ANA
+   BUY $STEVE
  </button>
  { isLessThanMinAmount &&
-                         <div>Please buy at least {MIN_TOKEN_AMOUNT[activePhase?.toString()]} $ANA.</div>
+                         <div>Please buy at least {MIN_TOKEN_AMOUNT[activePhase?.toString()]} $STEVE.</div>
                          }
                          </>
                          }
