@@ -28,18 +28,18 @@ const Terms = () => {
         </div>
         <div className="text-boxes">
           <div className="pbox">
-          These ANARCHY Token Terms of Service ("Token Terms") govern the use and ownership of ANA tokens ("Tokens") issued by anarchycoin.io ("we," "us," or "our"). By participating in the acquisition, possession, or use of ANA Tokens, you agree to comply with these Token Terms.
+          These STEVEN Token Terms of Service ("Token Terms") govern the use and ownership of STEVE tokens ("Tokens") issued by Stevencoin.io ("we," "us," or "our"). By participating in the acquisition, possession, or use of STEVE Tokens, you agree to comply with these Token Terms.
           </div>
           <div className="pbox">
-            <span className='description-header'>Nature of ANA Tokens: </span>
-            <span>ANA Tokens are digital tokens and a form of digital currency based on the Ethereum Blockchain. They can be used within the anarchycoin.io ecosystem for various purposes, including but not limited to voting on specific services, products, or features offered by anarchycoin.io or the anarchy DAO.</span>
+            <span className='description-header'>Nature of STEVE Tokens: </span>
+            <span>STEVE Tokens are digital tokens and a form of digital currency based on the Ethereum Blockchain. They can be used within the Stevencoin.io ecosystem for various purposes, including but not limited to voting on specific services, products, or features offered by Stevencoin.io or the Steven DAO.</span>
           </div>
           <div className="pbox">
             <span className='description-header'>
             Ownership and Transfer: 
             </span>
             <span>
-            &nbsp;Ownership of ANA Tokens does not imply ownership rights or equity in anarchycoin.io. You acknowledge and agree that the Tokens are non-refundable, non-exchangeable, and non-transferrable, except as explicitly permitted by these Token Terms or as otherwise specified by anarchycoin.io.
+            &nbsp;Ownership of STEVE Tokens does not imply ownership rights or equity in Stevencoin.io. You acknowledge and agree that the Tokens are non-refundable, non-exchangeable, and non-transferrable, except as explicitly permitted by these Token Terms or as otherwise specified by Stevencoin.io.
             </span>
           </div>
 
@@ -48,7 +48,7 @@ const Terms = () => {
             Token Distribution: 
             </span>
             <span>
-            &nbsp;The distribution of ANA Tokens may be subject to specific rules and procedures set by anarchycoin.io. These rules may include participation in token sales, airdrops, or other designated mechanisms. By acquiring Tokens, you agree to abide by the applicable rules and procedures.
+            &nbsp;The distribution of STEVE Tokens may be subject to specific rules and procedures set by Stevencoin.io. These rules may include participation in token sales, airdrops, or other designated mechanisms. By acquiring Tokens, you agree to abide by the applicable rules and procedures.
             </span>
           </div>
 
@@ -57,7 +57,7 @@ const Terms = () => {
             Token Usage:
             </span>
             <span>
-            &nbsp; ANA Tokens can be used within the anarchycoin.io ecosystem as a digital currency to vote on specific events, payments, and access to services offered by anarchycoin.io or anarchy DAO. They do not represent any ownership in anarchycoin.io and should not be considered securities.
+            &nbsp; STEVE Tokens can be used within the Stevencoin.io ecosystem as a digital currency to vote on specific events, payments, and access to services offered by Stevencoin.io or Steven DAO. They do not represent any ownership in Stevencoin.io and should not be considered securities.
             </span>
           </div>
 
@@ -66,7 +66,7 @@ const Terms = () => {
             Trading Activities:
             </span>
             <span>
-            &nbsp;The anarchycoin.io platform may facilitate the trading of ANA tokens against paired currencies on
+            &nbsp;The Stevencoin.io platform may facilitate the trading of STEVE tokens against paired currencies on
 authorized exchanges.
             </span>
             <p>
@@ -77,15 +77,15 @@ authorized exchanges.
             <p>
             </p>
             <p>
-            anarchycoin.io does not guarantee the availability, functionality, or reliability of any authorized exchange. We are not liable for any losses or damages resulting from trading activities conducted on authorized exchanges.
+            Stevencoin.io does not guarantee the availability, functionality, or reliability of any authorized exchange. We are not liable for any losses or damages resulting from trading activities conducted on authorized exchanges.
             </p>
             <p></p>
             <p>
-            You acknowledge that the value of ANA tokens may fluctuate and that trading involves risks. You should carefully consider and assess these risks before engaging in trading activities.
+            You acknowledge that the value of STEVE tokens may fluctuate and that trading involves risks. You should carefully consider and assess these risks before engaging in trading activities.
             </p>
             <p></p>
             <p>
-            anarchycoin.io may provide information or links to authorized exchanges for trading purposes. However, we do not endorse or have control over these exchanges, and any transactions conducted on third-party platforms are solely between you and the exchange.
+            Stevencoin.io may provide information or links to authorized exchanges for trading purposes. However, we do not endorse or have control over these exchanges, and any transactions conducted on third-party platforms are solely between you and the exchange.
             </p>
           </div>
 
@@ -94,7 +94,7 @@ authorized exchanges.
             Token Risks:
             </span>
             <span>
-            &nbsp;You acknowledge and understand the risks associated with acquiring, possessing, or using ANA Tokens. These risks may include, but are not limited to, price volatility and market fluctuations affecting the value of Tokens, technological risks, and regulatory risks. Please carefully consider these risks before engaging with ANA Tokens.
+            &nbsp;You acknowledge and understand the risks associated with acquiring, possessing, or using STEVE Tokens. These risks may include, but are not limited to, price volatility and market fluctuations affecting the value of Tokens, technological risks, and regulatory risks. Please carefully consider these risks before engaging with STEVE Tokens.
             </span>
           </div>
 
@@ -103,7 +103,7 @@ authorized exchanges.
             Compliance and Prohibited Activities:
             </span>
             <span>
-            &nbsp;You agree to comply with all applicable laws, regulations, and guidelines when acquiring, possessing, or using ANA Tokens. You shall not engage in any prohibited activities, including but not limited to violating any laws, regulations, or third-party rights.
+            &nbsp;You agree to comply with all applicable laws, regulations, and guidelines when acquiring, possessing, or using STEVE Tokens. You shall not engage in any prohibited activities, including but not limited to violating any laws, regulations, or third-party rights.
             </span>
           </div>
 
@@ -112,7 +112,7 @@ authorized exchanges.
             Token Events and Modifications: 
             </span>
             <span>
-            &nbsp;We reserve the right to modify, suspend, or discontinue the functionality, distribution, or usage of ANA Tokens at any time, with or without notice. We may also undertake token events, such as token burns or token swaps, to maintain or adjust the token economy. You acknowledge and agree that such events or modifications may impact the value, availability, or functionality of Tokens.
+            &nbsp;We reserve the right to modify, suspend, or discontinue the functionality, distribution, or usage of STEVE Tokens at any time, with or without notice. We may also undertake token events, such as token burns or token swaps, to maintain or adjust the token economy. You acknowledge and agree that such events or modifications may impact the value, availability, or functionality of Tokens.
             </span>
           </div>
 
@@ -121,7 +121,7 @@ authorized exchanges.
             Disclaimer of Warranties:
             </span>
             <span>
-            &nbsp;ANA Tokens are provided on an "as-is" and "as available" basis. We make no warranties or representations regarding the Tokens, including their functionality, value, or suitability for any particular purpose. You acknowledge that the Token ecosystem is subject to various risks and uncertainties.
+            &nbsp;STEVE Tokens are provided on an "as-is" and "as available" basis. We make no warranties or representations regarding the Tokens, including their functionality, value, or suitability for any particular purpose. You acknowledge that the Token ecosystem is subject to various risks and uncertainties.
             </span>
           </div>
 
@@ -156,21 +156,21 @@ authorized exchanges.
             Prohibited Activities
             </span>
             <span>
-            &nbsp;You agree not to engage in any activities that may compromise the security, integrity, or functionality of the anarchycoin.io ecosystem or ANA Tokens. Prohibited activities include, but are not limited to:
+            &nbsp;You agree not to engage in any activities that may compromise the security, integrity, or functionality of the Stevencoin.io ecosystem or ANA Tokens. Prohibited activities include, but are not limited to:
             </span>
             <p></p>
             <p>
-            Unauthorized access or attempts to gain unauthorized access to anarchycoin.io systems, smart contracts, or user accounts.
+            Unauthorized access or attempts to gain unauthorized access to Stevencoin.io systems, smart contracts, or user accounts.
             </p>
 
             <p></p>
             <p>
-            Engaging in any form of hacking, phishing, or other malicious activities aimed at disrupting or compromising the anarchycoin.io ecosystem.
+            Engaging in any form of hacking, phishing, or other malicious activities aimed at disrupting or compromising the Stevencoin.io ecosystem.
             </p>
 
             <p></p>
             <p>
-            Engaging in any fraudulent or deceptive activities, including the creation or dissemination of false information regarding ANA Tokens or anarchycoin.io.
+            Engaging in any fraudulent or deceptive activities, including the creation or dissemination of false information regarding ANA Tokens or Stevencoin.io.
             </p>
           </div>
 
@@ -179,7 +179,7 @@ authorized exchanges.
             Third-Party Platforms:
             </span>
             <span>
-            &nbsp;The anarchycoin.io ecosystem may interact with third-party platforms or services, including cryptocurrency exchanges or wallet providers. Your use of such third-party platforms is subject to their terms and conditions. We disclaim any responsibility or liability for the actions, policies, or services of these third-party platforms.
+            &nbsp;The Stevencoin.io ecosystem may interact with third-party platforms or services, including cryptocurrency exchanges or wallet providers. Your use of such third-party platforms is subject to their terms and conditions. We disclaim any responsibility or liability for the actions, policies, or services of these third-party platforms.
             </span>
           </div>
 
@@ -188,7 +188,7 @@ authorized exchanges.
             Intellectual Property:
             </span>
             <span>
-            &nbsp; All intellectual property rights, including but not limited to trademarks, logos, and content associated with anarchycoin.io and ANA Tokens, are owned by anarchycoin.io or its licensors. You shall not use, reproduce, modify, or distribute any intellectual property without explicit permission from anarchycoin.io.
+            &nbsp; All intellectual property rights, including but not limited to trademarks, logos, and content associated with Stevencoin.io and ANA Tokens, are owned by Stevencoin.io or its licensors. You shall not use, reproduce, modify, or distribute any intellectual property without explicit permission from Stevencoin.io.
             </span>
           </div>
 
@@ -197,7 +197,7 @@ authorized exchanges.
             Governing Law and Dispute Resolution:
             </span>
             <span>
-            &nbsp;These Token Terms shall be governed by and construed in accordance with the laws of the jurisdiction where anarchycoin.io is registered. Any disputes arising out of or in connection with these Token Terms shall be resolved through arbitration or other dispute resolution mechanisms as determined by anarchycoin.io.
+            &nbsp;These Token Terms shall be governed by and construed in accordance with the laws of the jurisdiction where Stevencoin.io is registered. Any disputes arising out of or in connection with these Token Terms shall be resolved through arbitration or other dispute resolution mechanisms as determined by Stevencoin.io.
             </span>
           </div>
 
@@ -215,7 +215,7 @@ authorized exchanges.
             Entire Agreement: 
             </span>
             <span>
-            &nbsp;These Token Terms constitute the entire agreement between you and anarchycoin.io regarding the acquisition, possession, and use of ANA Tokens, superseding any prior agreements, understandings, or communications, whether oral or written.
+            &nbsp;These Token Terms constitute the entire agreement between you and Stevencoin.io regarding the acquisition, possession, and use of ANA Tokens, superseding any prior agreements, understandings, or communications, whether oral or written.
 If you have any questions or concerns about these Token Terms, please contact us at [contact email]. Your continued use or possession of ANA Tokens indicates your acceptance of these Token Terms.
             </span>
           </div>
