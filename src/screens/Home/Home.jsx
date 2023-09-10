@@ -319,7 +319,7 @@ const TokenBreakdown = () => {
 const HowToClaim = () => {
   const [copySuccess, setCopySuccess] = useState('');
 
-  const contractAddressString = "0xcAb2c7d37392de79237B09de09751f0bD8747D00"
+  const contractAddressString = "YOUR TOKEN ADDRESS HERE"
 
 
   return (
