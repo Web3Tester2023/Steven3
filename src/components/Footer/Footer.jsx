@@ -33,7 +33,7 @@ const Footer = () => {
 
   async function subscibeMailList(event){
     console.log("event",event)
-    axios.post('https://anarchycoin.menumcepte.com/', {
+    axios.post('#', {
       "mail_address" : mailAddress
     })
     .then(function (response) {
@@ -65,7 +65,7 @@ const Footer = () => {
 
             }
              {/* <span className="qm-box" onClick={changeBoxStatus}  >
-               ANARCHY
+               STEVEN
              </span> */}
             </div>
             {isShowBox && 
@@ -144,10 +144,10 @@ const Footer = () => {
                 <h5>SOCIAL</h5>
                 <ul>
                   <li>
-                    <a href="https://twitter.com/anarchycoineth?s=21">Twitter</a>
+                    <a href="#">Twitter</a>
                   </li>
                   <li>
-                    <a href="https://t.me/anarchyarmy">Telegram</a>
+                    <a href="#">Telegram</a>
                   </li>
                 </ul>
               </div>
